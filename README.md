@@ -1,24 +1,11 @@
 # Dev-frontend
 
-## Project setup
+## 安装依赖
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm install
 ```
 
-### Compiles and minifies for production
+### 编译
 ```
-yarn build
+npm run serve
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
